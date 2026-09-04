@@ -1,2 +1,8 @@
 Collaboration Demo Project
 Version 1.0
+
+Features:
+- User interaction module
+- Real-time notification system
+- Modular plugin architecture
+
